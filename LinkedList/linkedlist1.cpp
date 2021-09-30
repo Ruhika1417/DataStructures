@@ -1,4 +1,4 @@
-//  node consists of next(address) and data(val); 
+//  node consists of next(address) and data(val);
 
 #include<iostream>
 using namespace std;
